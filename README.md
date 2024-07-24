@@ -4,6 +4,8 @@ this is a script about okx game in telegram 欧易在tg里积分赛车空投小�
 
 **本代码用于欧易在telegram小程序点击获得积分空投奖励**
 
+打开<a href = "https://t.me/OKX_official_bot/OKX_Racer?startapp=linkCode_110980037">telegram链接</a>开始游戏
+
 打开小程序利用<a href = "https://github.com/zhuolhc/okx-tg-game/blob/main/coordinate.py">coordinate.py</a> 获取上涨和下跌坐标位置
 
 然后将输出的坐标填写在<a href = "https://github.com/zhuolhc/okx-tg-game/blob/main/script.py">script.py</a>相应位置中
