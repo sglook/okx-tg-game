@@ -21,9 +21,9 @@ def click():
     toggle = not toggle
     click_count += 1
 
-    if click_count >= 12:
-        print("Pausing for 10 seconds...")
-        time.sleep(1000)  
+    if click_count >= 10:
+        print("Pausing for 820 seconds...")
+        time.sleep(820)  
         click_count = 0
     else:
         time.sleep(8)  
