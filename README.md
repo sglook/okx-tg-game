@@ -1,6 +1,6 @@
 # okx-tg-game
 
-this is a script about okx game in telegram 欧易在tg里积分空投小游戏脚本
+this is a script about okx game in telegram 欧易在tg里积分赛车空投小游戏脚本
 
 **本代码用于欧易在telegram小程序点击获得积分空投奖励**
 
