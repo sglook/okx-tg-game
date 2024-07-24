@@ -22,11 +22,11 @@ def click():
     click_count += 1
 
     if click_count >= 10:
-        print("Pausing for 820 seconds...")
-        time.sleep(820)  
+        print("Pausing for 815 seconds...")
+        time.sleep(815)  
         click_count = 0
     else:
-        time.sleep(8)  
+        time.sleep(8.5)  
 
 print("Auto clicker started. Press Ctrl+C to stop.")
 
